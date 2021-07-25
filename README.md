@@ -8,6 +8,7 @@ Recursos:
 	Os dados a serem utilizados estão disponíveis publicamente pela API: https://www.breakingbadapi.com/
   
 
+Javascrip/HTML5/CSS3
 
 # Instalar dependências
 npm install
